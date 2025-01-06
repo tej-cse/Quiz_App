@@ -29,7 +29,10 @@ State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
 
 🖼️ Screenshots:
+1.Front Page :
 ![QuizApp_FrontPage](https://github.com/user-attachments/assets/c06b49a5-d0e9-4667-9c8d-ed453b7f29b1)
+
+2.Score Page :
 ![QuizApp_ScorePage](https://github.com/user-attachments/assets/bb74f926-ea34-4a02-a0f2-5983949d292a)
 
 
